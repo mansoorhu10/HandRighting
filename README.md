@@ -8,9 +8,7 @@ My goal was to create a full-stack web application with simple handwriting funct
 
 ## What I have learned
 I learned many valuable skills in web development using C# and ASP.NET.
-  * I used C# and ASP.NET alongside my existing web development knowledge to understand how the different technologies interact with each other.
+  * I used C# and ASP.NET alongside my existing web development knowledge to understand how the different technologies interact.
 ## Future Improvements
 Once I have enough time to continue working on this project, these are the primary changes and improvements I will make to the web app:
   * Add Machine Learning to the project.
-
-## Dependencies
